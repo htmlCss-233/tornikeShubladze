@@ -1,0 +1,65 @@
+h1{text-align: center;
+font-size: 36px;
+color: brown;
+font-weight: bold;}
+p{text-align: left;
+color:brown;
+font-size: 24px;
+font-weight: bold;
+}
+.usa{width: 800;
+    height: 600;
+    border-style:double;
+    border-width: 20px;
+    border-radius: 15%;
+
+}
+.china{width: 800;
+    height: 600;
+    border-style:double;
+    border-width: 20px;
+    border-radius: 15%;}
+    #india{width: 800;
+    height: 600;
+    border-style:double;
+    border-width: 20px;
+    border-radius: 15%;}
+/* table
+    {
+        border-collapse: collapse;
+    } */
+table {
+/* border: 2px solid black; */
+border-top: 2px solid black;
+border-bottom: 2px solid black;
+background-color: aqua;  
+}
+
+td {
+border: 2px solid black;
+background-color: aqua;  
+}
+
+/* table {
+    display: flex;
+    justify-content: center;
+} */
+
+.myDiv {
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    width: 561px;
+}
+
+.MergerDiv {
+    display: flex;
+    justify-content: center;
+}
+
+#tittle1 {
+    margin: 0;
+
+    
